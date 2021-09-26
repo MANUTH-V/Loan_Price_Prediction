@@ -11,8 +11,6 @@ Our ML model will require customer informations, such as:
 
 Features above we have studied the correlations and base on business concept also.
 
-## Project: Predicting Boston Housing Prices
-
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
